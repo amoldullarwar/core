@@ -1,0 +1,2 @@
+# core
+Base core project
